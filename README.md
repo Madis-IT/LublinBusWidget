@@ -6,11 +6,11 @@ Welcome to the official documentation repository for Lublin BusWidget — a mobi
 
 ### 1. Privacy Policy
 
-[Privacy Policy](docs/privacy-policy.md) describes what data is collected by the app, how it is used, and how it is stored. This document is crucial for understanding your rights and our obligations regarding personal information and privacy.
+[Privacy Policy](Privacy_Policy.md) describes what data is collected by the app, how it is used, and how it is stored. This document is crucial for understanding your rights and our obligations regarding personal information and privacy.
 
 ### 2. Terms and Conditions
 
-[Terms and Conditions](docs/terms-and-conditions.md) outlines the rules and conditions for using Lublin BusWidget. It contains information on user rights and responsibilities, app usage restrictions, data accuracy disclaimers, and our liability.
+[Terms and Conditions](Terms_of_Usage.md) outlines the rules and conditions for using Lublin BusWidget. It contains information on user rights and responsibilities, app usage restrictions, data accuracy disclaimers, and our liability.
 
 ## App Features
 
