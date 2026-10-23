@@ -1,32 +1,21 @@
-# Lublin BusWidget - Public Documentation Repository
+# Jedź Lublin (Lublin BusWidget)
 
-Welcome to the official documentation repository for Lublin BusWidget — a mobile application for browsing public transit schedules in Lublin, Poland. The app uses publicly available GTFS data from ZTM Lublin to provide bus route information, departure times, and home screen widgets for quick access to your favorite stops.
+<img src="icon.png" alt="Jedź Lublin app icon" width="96" height="96">
 
-## Repository Contents
+Public documentation for **Jedź Lublin**, the mobile app previously known as Lublin BusWidget. It helps riders plan journeys and check public transport in Lublin. This repository contains the [privacy policy](Privacy_Policy.md) and [terms of use](Terms_of_Usage.md); the app itself is developed separately.
 
-### 1. Privacy Policy
+## What the app does
 
-[Privacy Policy](Privacy_Policy.md) describes what data is collected by the app, how it is used, and how it is stored. This document is crucial for understanding your rights and our obligations regarding personal information and privacy.
+- Plan journeys between stops or searched addresses, including transfers and boarding stops.
+- Browse route maps, stop schedules, and upcoming departures using a timetable stored on the device.
+- Show available live departures and vehicle positions from a public realtime feed. Live information can be delayed or unavailable.
+- Save routes, repeat recent searches, and show up to three saved routes on the active home screen widget.
+- Follow a journey with an iOS Live Activity or Android tracking notification. Tracking uses a server to keep updates flowing while the app is in the background.
+- Show a walking route to the first boarding stop when location access is granted.
+- Explain how to pay for a ticket in the vehicle; ticket purchases happen outside the app.
 
-### 2. Terms and Conditions
-
-[Terms and Conditions](Terms_of_Usage.md) outlines the rules and conditions for using Lublin BusWidget. It contains information on user rights and responsibilities, app usage restrictions, data accuracy disclaimers, and our liability.
-
-## App Features
-
-- 🔍 **Search** — Find bus routes and stops by name, code, or number
-- 🕐 **Schedules** — View full daily timetables and next departures for any stop
-- 🗺️ **Route Explorer** — Browse stop-by-stop route timelines with direction switching
-- 📱 **Home Screen Widget** — Add a widget displaying next departures for up to 2 stops with up to 3 bus lines each
-- 🇵🇱 **Polish UI** — Fully localized interface in Polish
-
-## How to Use This Repository
-
-1. **Browse Documents:** You can view markdown files directly on GitHub or download them for offline review and analysis.
-2. **Stay Updated:** Any changes to these documents will be logged in this repository. We recommend checking for updates regularly to remain informed about the latest changes.
+The app is independent of ZTM Lublin and the City of Lublin.
 
 ## Contact
 
-If you have questions regarding the Privacy Policy, Terms and Conditions, or any other documents, please contact us at [orlik.dev@gmail.com](mailto:orlik.dev@gmail.com).
-
-Thank you for using Lublin BusWidget! 🚌
+Questions about the app or these documents: [info@madis.it.com](mailto:info@madis.it.com).
