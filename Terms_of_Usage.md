@@ -1,98 +1,27 @@
-# Regulamin Korzystania — Lublin BusWidget
+# Regulamin korzystania — Jedź Lublin (Lublin BusWidget)
 
-**Data wejścia w życie:** 22 lutego 2026 r.
+**Ostatnia aktualizacja: 23 października 2026 r.**
 
-## 1. Postanowienia ogólne
+## 1. Aplikacja
 
-1.1. Niniejszy Regulamin określa zasady korzystania z aplikacji mobilnej Lublin BusWidget („Aplikacja").
+Jedź Lublin („Aplikacja”, wcześniej Lublin BusWidget) służy do planowania podróży komunikacją miejską w Lublinie, przeglądania rozkładów i map tras, sprawdzania odjazdów, zapisywania tras w widżetach oraz śledzenia wybranej podróży. Korzystanie z Aplikacji jest bezpłatne; Aplikacja nie sprzedaje biletów. Informacje o płatnościach za przejazd mają charakter pomocniczy, a płatność odbywa się u właściwego dostawcy usługi przewozowej.
 
-1.2. Aplikacja służy do przeglądania rozkładów jazdy komunikacji miejskiej w Lublinie na podstawie publicznie dostępnych danych GTFS (General Transit Feed Specification) udostępnianych przez Zarząd Transportu Miejskiego w Lublinie (ZTM Lublin).
+Aplikacja jest niezależna od ZTM Lublin i Urzędu Miasta Lublin; nie jest przez nie zatwierdzona ani wspierana.
 
-1.3. Korzystanie z Aplikacji oznacza akceptację niniejszego Regulaminu.
+## 2. Dane i dostępność
 
-## 2. Opis usługi
+Rozkłady jazdy pochodzą z danych GTFS i mogą być używane bez połączenia z internetem po zapisaniu ich na urządzeniu. Aplikacja może pobierać nowsze rozkłady. Dostępne informacje o opóźnieniach i pozycjach pojazdów pochodzą z kanału GTFS Realtime. Wyszukiwanie adresów, mapy, wyznaczanie tras pieszych, aktualizacje rozkładu i śledzenie w tle wymagają połączenia z internetem; niektóre funkcje wymagają uprawnienia do lokalizacji.
 
-2.1. Aplikacja umożliwia:
+Rozkłady, dane na żywo, propozycje przesiadek, trasy piesze i informacje o biletach mogą być niepełne, opóźnione lub nieaktualne. Przed ważną podróżą należy sprawdzić bieżące komunikaty i warunki przewozu u oficjalnego przewoźnika lub organizatora transportu. Aplikacja nie gwarantuje, że wskazany pojazd przyjedzie o podanej porze ani że przesiadka będzie możliwa.
 
-- Wyszukiwanie linii autobusowych i przystanków
-- Przeglądanie rozkładów jazdy dla wybranych linii i przystanków
-- Sprawdzanie najbliższych odjazdów
-- Konfigurację widżetu ekranu głównego wyświetlającego najbliższe odjazdy
+## 3. Widżety i śledzenie
 
-  2.2. Aplikacja jest udostępniana **bezpłatnie**, bez reklam i bez zakupów wewnątrz aplikacji.
+Można zapisać kilka nazwanych widżetów; aktywny widżet pokazuje maksymalnie trzy zapisane trasy. Częstotliwość odświeżania widżetu i powiadomień zależy od systemu operacyjnego, połączenia sieciowego i dostępności danych. Śledzenie podróży można zakończyć w Aplikacji; aktywność może też zakończyć się automatycznie.
 
-## 3. Źródło danych i dokładność
+## 4. Korzystanie i prawa
 
-3.1. Rozkłady jazdy prezentowane w Aplikacji opierają się na statycznych danych GTFS publikowanych przez ZTM Lublin.
+Aplikacja jest udostępniana w zakresie dozwolonym przez obowiązujące przepisy. Użytkownik powinien korzystać z niej zgodnie z prawem i zasadami usług zewnętrznych, z których korzysta. Prawa do Aplikacji oraz do danych i znaków osób trzecich pozostają przy ich właścicielach. Postanowienia tego regulaminu nie ograniczają praw konsumenta wynikających z obowiązujących przepisów.
 
-3.2. **Aplikacja nie zapewnia informacji w czasie rzeczywistym.** Dane mogą nie odzwierciedlać bieżących zmian, takich jak:
+## 5. Kontakt i zmiany
 
-- Opóźnienia w kursowaniu
-- Odwołane kursy
-- Zmiany tras spowodowane remontami lub wydarzeniami
-- Tymczasowe zmiany rozkładu
-
-  3.3. Użytkownicy powinni zawsze weryfikować informacje z oficjalnymi źródłami ZTM Lublin, szczególnie w przypadku ważnych podróży.
-
-  3.4. Deweloper dokłada starań, aby dane były aktualne, jednak nie gwarantuje ich pełnej dokładności ani kompletności.
-
-## 4. Brak powiązania z ZTM Lublin
-
-4.1. Aplikacja jest niezależnym projektem i **nie jest oficjalnie powiązana, zatwierdzona ani wspierana** przez Zarząd Transportu Miejskiego w Lublinie, Urząd Miasta Lublin ani żadną inną instytucję publiczną.
-
-4.2. Wszelkie znaki towarowe, nazwy przystanków i linii autobusowych są własnością ich odpowiednich właścicieli.
-
-## 5. Ograniczenia odpowiedzialności
-
-5.1. Aplikacja jest udostępniana w stanie „takim, jaki jest" (_as is_), bez jakichkolwiek gwarancji, wyraźnych lub dorozumianych.
-
-5.2. Deweloper **nie ponosi odpowiedzialności** za:
-
-- Spóźnienie na autobus lub inne środki transportu wynikające z korzystania z Aplikacji
-- Niedokładność, niekompletność lub nieaktualność danych rozkładowych
-- Jakiekolwiek straty, szkody bezpośrednie lub pośrednie wynikające z korzystania z Aplikacji
-- Problemy techniczne wynikające z urządzenia użytkownika lub systemu operacyjnego
-
-  5.3. Użytkownik korzysta z Aplikacji na własne ryzyko i odpowiedzialność.
-
-## 6. Widżet ekranu głównego
-
-6.1. Aplikacja umożliwia dodanie widżetu na ekranie głównym urządzenia, wyświetlającego najbliższe odjazdy dla wybranych przystanków.
-
-6.2. Ograniczenia widżetu:
-
-- Maksymalnie 2 przystanki
-- Maksymalnie 3 linie autobusowe na przystanek
-- Częstotliwość odświeżania widżetu zależy od ograniczeń systemu operacyjnego
-
-  6.3. Poprawne działanie widżetu wymaga, aby Aplikacja pozostała zainstalowana na urządzeniu.
-
-## 7. Wymagania techniczne
-
-7.1. Aplikacja wymaga urządzenia z systemem Android lub iOS.
-
-7.2. Aplikacja nie wymaga połączenia z internetem do swojego podstawowego działania.
-
-## 8. Prawa własności intelektualnej
-
-8.1. Kod źródłowy, projekt interfejsu i inne elementy Aplikacji (z wyłączeniem danych GTFS) stanowią własność dewelopera.
-
-8.2. Dane rozkładowe GTFS są własnością ZTM Lublin i są wykorzystywane zgodnie z warunkami ich publicznego udostępnienia.
-
-## 9. Zmiany w Regulaminie
-
-9.1. Deweloper zastrzega sobie prawo do wprowadzania zmian w niniejszym Regulaminie.
-
-9.2. O istotnych zmianach użytkownicy zostaną poinformowani poprzez aktualizację Aplikacji.
-
-9.3. Dalsze korzystanie z Aplikacji po wprowadzeniu zmian oznacza ich akceptację.
-
-## 10. Kontakt
-
-W przypadku pytań lub uwag dotyczących Aplikacji lub niniejszego Regulaminu prosimy o kontakt:
-
-📧 E-mail: orlik.dev@gmail.com
-
----
-
-_Ostatnia aktualizacja: 22 lutego 2026 r._
+Pytania lub uwagi: [info@madis.it.com](mailto:info@madis.it.com). Zmiany regulaminu będą publikowane w tym repozytorium.
